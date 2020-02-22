@@ -1,6 +1,7 @@
 {
-    "name": "rmasters/swapi",
+    "name": "xvrmallafre/swapi",
     "license": "MIT",
+    "description": "This is a fork of rmasters/swapi that works again.",
     "copyright": "Ross Masters 2014",
     "authors": [
         {
